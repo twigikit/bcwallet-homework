@@ -73,9 +73,8 @@ w3 = Web3(Web3.HTTPProvider("HTTP://127.0.0.1:7545"))
 ################################################################################
 # Step 1 - Part 3:
 # Import the following functions from the `crypto_wallet.py` file:
-# * `generate_account`
-# * `get_balance`
-# * `send_transaction`
+from crypto_wallet import generate_account, get_balance, send_transaction
+
 
 # @TODO:
 # From `crypto_wallet.py import the functions generate_account, get_balance,
