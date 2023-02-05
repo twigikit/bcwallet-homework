@@ -6,9 +6,10 @@
 ![](./screenshots/send_txn.jpg)
 
 * My account's address balance and history on Ganache
+
 ![](./screenshots/ganache_account_balance.jpg)
 
-*Transaction details on Ganache
+* Transaction details on Ganache
 
 ![](./screenshots/ganache_txn_details.jpg)
 
