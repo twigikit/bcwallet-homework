@@ -5,7 +5,7 @@
 
 ![](./screenshots/send_txn.jpg)
 
-* My account's address balance and history on Ganache
+* My account's ending address balance and history on Ganache (Note: Opening address balance = 100)
 
 ![](./screenshots/ganache_account_balance.jpg)
 
